@@ -1,2 +1,2 @@
-# python-edu
+# Learning Python
 Learning Python
